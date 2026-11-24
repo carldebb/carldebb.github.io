@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carldebb.github.io/sitemap.xml
